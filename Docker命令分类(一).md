@@ -9,3 +9,5 @@
 - 系统日志信息 — docker [events|history|logs]
 
 ![image-20210607095537065](assets/image-20210607095537065.png)
+
+![image-20210607135528015](assets/image-20210607135528015.png)
