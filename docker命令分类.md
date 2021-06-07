@@ -7,3 +7,5 @@
 - 本地镜像管理 — docker [build|images|rmi|tag|save|import|load]
 - 容器资源管理 — docker [volume|network]
 - 系统日志信息 — docker [events|history|logs]
+
+![image-20210607095537065](assets/image-20210607095537065.png)
